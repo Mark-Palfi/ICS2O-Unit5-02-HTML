@@ -9,10 +9,18 @@
  */
 function enterClicked() {
   // input
-  const street_name = document.getElementById("street-name").value
-  const street_number = parseInt(document.getElementById("street-number").value)
+  const useruserInteger = document.getElementById("Integer").value
+
+  # if ... then ... else example
+if userInteger == 30 :
+    document.getElementById("positive").innerHTML =
+else:
+    document.getElementById("negitive").innerHTML =
 
   // output
-  document.getElementById("address").innerHTML =
-    "You live on: " + street_name + ", house " + street_number + "."
+  document.getElementById("positive").innerHTML =
+    "It's positive."
+
+  document.getElementById("negitive").innerHTML =
+    "It's negitive."
 }
