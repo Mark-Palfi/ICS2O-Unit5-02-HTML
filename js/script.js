@@ -11,7 +11,7 @@ function enterClicked() {
   // input
   const useruserInteger = document.getElementById("Integer").value
 
-  # if ... then ... else example
+ // # if ... then ... else example
 if userInteger == 30 :
     document.getElementById("positive").innerHTML =
 else:
