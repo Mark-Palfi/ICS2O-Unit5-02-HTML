@@ -12,9 +12,9 @@ function enterClicked() {
   const useruserInteger = document.getElementById("Integer").value
 
  // # if ... then ... else example */
-if userInteger == 30 :
+  if userInteger == 30 :
     document.getElementById("positive").innerHTML =
-else:
+  else:
     document.getElementById("negitive").innerHTML =
 
   // output
