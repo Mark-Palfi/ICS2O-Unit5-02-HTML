@@ -9,7 +9,7 @@
  */
 function enterClicked() {
   // input
-  const useruserInteger = document.getElementById("Integer").value
+  const userInteger = document.getElementById("Integer").value
 
  // # if ... then ... else example */
   if (userInteger) == 30 :
