@@ -13,8 +13,8 @@ function enterClicked() {
 
  // # if ... then ... else example */
   if (userInteger >= 0) {
-    document.getElementById("positive").innerHTML = "It's positive."
+    document.getElementById("answer").innerHTML = "It's positive."
   } else {
-    document.getElementById("negitive").innerHTML = "It's negitive."
+    document.getElementById("answer").innerHTML = "It's negitive."
   }
 }
